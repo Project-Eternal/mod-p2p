@@ -1,0 +1,14 @@
+#
+# mod-p2p: the servers of different players meet through a relay node (an MQTT broker) and keep their worlds in agreement
+#
+# The node's address is a setting of the page (the host is web/p2p.js); without an address the module does nothing.
+
+[worldserver]
+
+#
+#    P2P.Enable
+#        Description: Use the module at all.
+#        Default:     1 - (Enabled)
+#                     0 - (Disabled)
+
+P2P.Enable = 1
