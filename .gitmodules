@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Project-Eternal/mod-p2p.wiki.git
+	branch = master
